@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help">"يساعد "</string>
+    <string name="description">"النوجا هي عائلة من الحلويات المصنوعة من السكر أو العسل ، والمكسرات المحمصة (اللوز والجوز والفستق والبندق والمكاديميا شائعة) ، بياض البيض المخفوق ، وأحيانًا الفاكهة المسكرة المقطعة. يتم استخدامه في مجموعة متنوعة من قطع الحلوى والشوكولاتة. "</string>
+    <string name="nougat">"نوجا كاندي باك "</string>
+    <string name="help_text">"إذا كنت بحاجة إلى مساعدة ، فاتصل بقسم الدعم لدينا. "</string>
+    <string name="dial_log_message">ACTION_DIAL Intent. لا يمكن حل التطبيق لـ</string>
+    <string name="action_language">"لغة "</string>
+    <string name="expired_label">"منتهي الصلاحية "</string>
+    <string name="price_input_text_label">"(USD) السعر للسلعة الواحدة "</string>
+    <string name="price_text_label">"السعر لكل مائة عنصر "</string>
+    <string name="price_submit_text">يُقدِّم</string>
+</resources>
